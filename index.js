@@ -7,4 +7,5 @@ for (let i = 1; i < 100; i++) {
 
 
 
-// added some new features
+// added some new features 
+// some changes made on GitHub
